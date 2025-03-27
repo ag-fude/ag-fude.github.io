@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://example.com/log/first-day/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/log/first-day/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/log/first-day/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/log/first-day/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/ship/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/ship/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/ship/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/ship/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/ship/upper/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/ship/upper/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/ship/upper/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/ship/upper/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/log/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/log/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/log/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/log/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/log/second-day/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/log/second-day/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/log/second-day/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/log/second-day/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/ship/midst/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/ship/midst/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/ship/midst/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/ship/midst/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/about/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/about/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/about/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/about/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/ship/cargo/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/ship/cargo/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/ship/cargo/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/ship/cargo/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/log/third-day/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/log/third-day/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/log/third-day/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/log/third-day/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/ship/midst/captain/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/ship/midst/captain/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/ship/midst/captain/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/ship/midst/captain/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/categories/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/categories/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/categories/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/ship/midst/crew/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/ship/midst/crew/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/ship/midst/crew/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/ship/midst/crew/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/ship/upper/nest/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/ship/upper/nest/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/ship/upper/nest/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/ship/upper/nest/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/tags/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/tags/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/tags/index.html" />
+  </url>
+  <url>
+    <loc>https://example.com/ship/upper/helm/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://example.com/ship/upper/helm/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://example.com/ship/upper/helm/index.html" />
+    <xhtml:link rel="alternate" hreflang="art-x-pir" href="https://example.com/pir/ship/upper/helm/index.html" />
+  </url>
+</urlset>
