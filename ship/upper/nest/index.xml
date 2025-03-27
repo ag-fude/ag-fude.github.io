@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Crow&#39;s Nest :: Purple Pulpo</title>
-    <link>https://example.com/ship/upper/nest/index.html</link>
+    <title>Crow&#39;s Nest :: Fude Studio</title>
+    <link>https://docs.fude.ai/ship/upper/nest/index.html</link>
     <description>Where our lookout pretends to spot land while actually napping</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.com/ship/upper/nest/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://docs.fude.ai/ship/upper/nest/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

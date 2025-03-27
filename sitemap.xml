@@ -1,14 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>https://example.com/en/sitemap.xml</loc>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://example.com/pir/sitemap.xml</loc>
-    
-  </sitemap>
-  
-</sitemapindex>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://docs.fude.ai/imageconvtext/01.quick_start/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/ship/upper/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/imageconvtext/02.api_docs/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/imageconvtext/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/ship/midst/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/about/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/ship/cargo/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/ship/midst/captain/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/ship/midst/crew/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/ship/upper/nest/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/tags/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/ship/upper/helm/index.html</loc>
+  </url>
+</urlset>

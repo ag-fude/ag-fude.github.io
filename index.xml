@@ -1,31 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>The Purple Pulpo :: Purple Pulpo</title>
-    <link>https://example.com/index.html</link>
+    <title>Fude Workshop :: Fude Studio</title>
+    <link>https://docs.fude.ai/index.html</link>
     <description></description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://docs.fude.ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The Ship</title>
-      <link>https://example.com/ship/index.html</link>
+      <title>ImageConvText</title>
+      <link>https://docs.fude.ai/imageconvtext/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ship/index.html</guid>
-      <description>Overview of the ship</description>
-    </item>
-    <item>
-      <title>Captain&#39;s Log</title>
-      <link>https://example.com/log/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/log/index.html</guid>
-      <description>The Captain&#39;s Log</description>
+      <guid>https://docs.fude.ai/imageconvtext/index.html</guid>
+      <description>ImageConvText</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://example.com/about/index.html</link>
+      <link>https://docs.fude.ai/about/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/about/index.html</guid>
+      <guid>https://docs.fude.ai/about/index.html</guid>
       <description>About this Website</description>
     </item>
   </channel>

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Upper Decks :: Purple Pulpo</title>
-    <link>https://example.com/ship/upper/index.html</link>
+    <title>Upper Decks :: Fude Studio</title>
+    <link>https://docs.fude.ai/ship/upper/index.html</link>
     <description>Where seagulls dare to land and captains steer with flair</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://example.com/ship/upper/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://docs.fude.ai/ship/upper/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crow&#39;s Nest</title>
-      <link>https://example.com/ship/upper/nest/index.html</link>
+      <link>https://docs.fude.ai/ship/upper/nest/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ship/upper/nest/index.html</guid>
+      <guid>https://docs.fude.ai/ship/upper/nest/index.html</guid>
       <description>Where our lookout pretends to spot land while actually napping</description>
     </item>
     <item>
       <title>The Helm</title>
-      <link>https://example.com/ship/upper/helm/index.html</link>
+      <link>https://docs.fude.ai/ship/upper/helm/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://example.com/ship/upper/helm/index.html</guid>
+      <guid>https://docs.fude.ai/ship/upper/helm/index.html</guid>
       <description>Home to our steering wheel, which may or may not be connected to anything</description>
     </item>
   </channel>
