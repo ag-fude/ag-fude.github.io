@@ -9,7 +9,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Fude Workshop \u003e \rImageConvText",
-    "content": "Extract Text From Image File Run game in level ImageConvtext Content/Demo/Maps/Map01_Image: This level will open widget ImageConvtext Content/Demo/Widgets/UW_ExtractText_Image on BeginPlay(): Then add node Get Platform Language Tags in Construct Event fo this widget to fill ComboBox: Invoke function Get File from System Dialog on butten event to select image file: At last, invoke Async Extract Text from Image to perform text extraction: Extract Text From Viewport Run game in level ImageConvtext Content/Demo/Maps/Map02_Viewport: This level will open widget ImageConvtext Content/Demo/Widgets/UW_ExtractText_Viewport on BeginPlay(): Then add node Get Platform Language Tags in Construct Event fo this widget to fill ComboBox: At last, invoke Async Extract Text from Viewport to perform text extraction: Extract Text From Texture2D Run game in level ImageConvtext Content/Demo/Maps/Map03_Texture2D: This level will open widget ImageConvtext Content/Demo/Widgets/UW_ExtractText_Texture2D on BeginPlay(): Then add node Get Platform Language Tags in Construct Event fo this widget to fill ComboBox: At last, invoke Async Extract Text from Texture to perform text extraction:",
+    "content": "Extract Text From Image File Run game in level ImageConvtext Content/Demo/Maps/Map01_Image: This level will open widget ImageConvtext Content/Demo/Widgets/UW_ExtractText_Image on BeginPlay(): Then add node Get Platform Language Tags in Construct Event fo this widget to fill ComboBox: Invoke function Get File from System Dialog on butten event to select image file: At last, invoke Async Extract Text from Image to perform text extraction: Extract Text From Viewport Run game in level ImageConvtext Content/Demo/Maps/Map02_Viewport: This level will open widget ImageConvtext Content/Demo/Widgets/UW_ExtractText_Viewport on BeginPlay(): Then add node Get Platform Language Tags in Construct Event fo this widget to fill ComboBox: At last, invoke Async Extract Text from Viewport to perform text extraction: Extract Text From Texture2D Run game in level ImageConvtext Content/Demo/Maps/Map03_Texture2D: This level will open widget ImageConvtext Content/Demo/Widgets/UW_ExtractText_Texture2D on BeginPlay(): Then add node Get Platform Language Tags in Construct Event fo this widget to fill ComboBox: At last, invoke Async Extract Text from Texture to perform text extraction: Email Support: hailancha9@gmail.com",
     "description": "Examples to demonstrate how to use.",
     "tags": [],
     "title": "Quick Start",
@@ -25,7 +25,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Fude Workshop \u003e \rImageConvText",
-    "content": "Overview ImageConvText provides threes functions to extract text:\nAsync Extract Text from Image: Extract text from image files like JPG, PNG, BMP, GIF and TIFF. Async Extract Text from Viewport: Extract text from current frame. Async Extract Text from Texture: Extract text from Texture2D asset. Async Extract Text from Image Inputs:\nImage Path: Picture file path. e.g. D:/test.png Language Tag: Language type. e.g. zh-CN, en-US. Verbose: Whether if print verbose infomations. Outputs:\nCompleted Event: The asynchronous callback of task. Output Text: the result text of extraction task. Success: Whether if task finish successed. Async Extract Text from Viewport Inputs:\nLanguage Tag: Language type. e.g. zh-CN, en-US. Verbose: Whether if print verbose infomations. Outputs:\nCompleted Event: The asynchronous callback of task. Output Text: the result text of extraction task. Success: Whether if task finish successed. Async Extract Text from Texture Inputs:\nTexture: Texture2D asset object reference. Language Tag: Language type. e.g. zh-CN, en-US. Verbose: Whether if print verbose infomations. Outputs:\nCompleted Event: The asynchronous callback of task. Output Text: the result text of extraction task. Success: Whether if task finish successed.",
+    "content": "Overview ImageConvText provides threes functions to extract text:\nAsync Extract Text from Image: Extract text from image files like JPG, PNG, BMP, GIF and TIFF. Async Extract Text from Viewport: Extract text from current frame. Async Extract Text from Texture: Extract text from Texture2D asset. Async Extract Text from Image Inputs:\nImage Path: Picture file path. e.g. D:/test.png Language Tag: Language type. e.g. en-US, zh-CN, ja, ar-SA. Verbose: Whether if print verbose informations in console. It’s useful to address issue on development. Outputs:\nCompleted Event: The asynchronous callback of task. Output Text: the result text of extraction task. Success: Whether if task finish successed. Async Extract Text from Viewport Inputs:\nLanguage Tag: Language type. e.g. en-US, zh-CN, ja, ar-SA. Verbose: Whether if print verbose informations in console. It’s useful to address issue on development. Outputs:\nCompleted Event: The asynchronous callback of task. Output Text: the result text of extraction task. Success: Whether if task finish successed. Async Extract Text from Texture Inputs:\nTexture: Texture2D asset object reference. Language Tag: Language type. e.g. en-US, zh-CN, ja, ar-SA. Verbose: Whether if print verbose informations in console. It’s useful to address issue on development. Outputs:\nCompleted Event: The asynchronous callback of task. Output Text: the result text of extraction task. Success: Whether if task finish successed. Email Support: hailancha9@gmail.com",
     "description": "Explain APIs of ImageConvText.",
     "tags": [],
     "title": "API Documents",
@@ -41,7 +41,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Fude Workshop",
-    "content": "Extract Text from Image. OCR Plugin for Unreal Engine.\nOverview ImageConvText is an plugin for Unreal Engine to extract text from image (terminology named OCR, Optical Character Recognition) at runtime.\nPlayable Demo Download\nPreviwe Video\nQuick StartExamples to demonstrate how to use.\nAPI DocumentsExplain APIs of ImageConvText.\nInstall LanguagesHow to install language package on Windows 10.",
+    "content": "Extract Text from Image. OCR Plugin for Unreal Engine.\nOverview ImageConvText is an plugin for Unreal Engine to extract text from image (terminology named OCR, Optical Character Recognition) at runtime.\nPlayable Demo Download\nPreview Video\nEmail Support: hailancha9@gmail.com\nQuick StartExamples to demonstrate how to use.\nAPI DocumentsExplain APIs of ImageConvText.\nInstall LanguagesHow to install language package on Windows 10.",
     "description": "ImageConvText",
     "tags": [],
     "title": "ImageConvText",
@@ -57,7 +57,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Fude Workshop",
-    "content": "Fude Workshop Fude Workshop is a team focusing on the research and development of game industry tools.",
+    "content": "Fude Workshop Fude Workshop is a team focusing on the research and development of game industry tools.\nEmail Support: hailancha9@gmail.com",
     "description": "About this Website",
     "tags": [],
     "title": "About",
@@ -81,7 +81,7 @@ var relearn_searchindex = [
   },
   {
     "breadcrumb": "Fude Workshop \u003e \rImageConvText",
-    "content": "Install Language Package ImageConvText use the system language package to extract text, so must install target language on Windows 10 or Windows 11.\nCaution\rImageConvText only support Windows 10 and Windows 11. Mac \u0026 Linux not supported. Windows -\u003e Settings -\u003e Time \u0026 language -\u003e Language \u0026 region: Click Add a language: Search target language: Click Install: After installation finished, then you can use function Get Platform Language Tags to list all installed languages.",
+    "content": "Install Language Package ImageConvText use the system language package to extract text, so must install target language on Windows 10 or Windows 11.\nCaution\rImageConvText only support Windows 10 and Windows 11. Mac \u0026 Linux not supported. Windows -\u003e Settings -\u003e Time \u0026 language -\u003e Language \u0026 region: Click Add a language: Search target language: Click Install: After installation finished, then you can use function Get Platform Language Tags to list all installed languages. Email Support: hailancha9@gmail.com",
     "description": "How to install language package on Windows 10.",
     "tags": [],
     "title": "Install Languages",
