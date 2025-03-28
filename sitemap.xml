@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://docs.fude.ai/log/first-day/index.html</loc>
+  </url>
+  <url>
     <loc>https://docs.fude.ai/imageconvtext/01.quick_start/index.html</loc>
   </url>
   <url>
@@ -8,6 +11,9 @@
   </url>
   <url>
     <loc>https://docs.fude.ai/imageconvtext/02.api_docs/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/log/second-day/index.html</loc>
   </url>
   <url>
     <loc>https://docs.fude.ai/imageconvtext/index.html</loc>
@@ -20,6 +26,12 @@
   </url>
   <url>
     <loc>https://docs.fude.ai/ship/cargo/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/log/third-day/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.fude.ai/imageconvtext/03.install_language/index.html</loc>
   </url>
   <url>
     <loc>https://docs.fude.ai/ship/midst/captain/index.html</loc>

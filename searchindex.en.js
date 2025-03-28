@@ -1,5 +1,13 @@
 var relearn_searchindex = [
   {
+    "breadcrumb": "Fude Workshop \u003e \rCaptain's Log",
+    "content": "Launch Day Captain’s Log, 0120 hours\n“No mission too saucy for us!”\n– Captain’s official decree\nIt seems we accidentally loaded a crate of rubber chickens instead of emergency food rations, but the crew is already brainstorming new dance routines with them. Meanwhile, our quartermaster replaced the lifebuoys with giant doughnuts for a “themed” departure—perfect for dunking our morale into sugary bliss.\nStatus Reason for voyage: A midnight run to deliver top-secret cargo (pasta flour and extra marinara). Crew status: Eager to set sail Full of energy (and possibly leftover breadsticks) Early Observations The moonlit sky casts The Purple Pulpo in a mysterious glow. Rumor has it, our octopus figurehead twitched its wooden tentacles twice, a good omen for our daring spaghetti mission. Some say those tentacles can sense hidden spice routes.\nStay tuned for more updates from our floating festival of noodles and nautical nonsense.",
+    "description": "Launch Day",
+    "tags": [],
+    "title": "Day 1",
+    "uri": "/log/first-day/index.html"
+  },
+  {
     "breadcrumb": "Fude Workshop \u003e \rImageConvText",
     "content": "Extract Text From Image File Run game in level ImageConvtext Content/Demo/Maps/Map01_Image: This level will open widget ImageConvtext Content/Demo/Widgets/UW_ExtractText_Image on BeginPlay(): Then add node Get Platform Language Tags in Construct Event fo this widget to fill ComboBox: Invoke function Get File from System Dialog on butten event to select image file: At last, invoke Async Extract Text from Image to perform text extraction: Extract Text From Viewport Run game in level ImageConvtext Content/Demo/Maps/Map02_Viewport: This level will open widget ImageConvtext Content/Demo/Widgets/UW_ExtractText_Viewport on BeginPlay(): Then add node Get Platform Language Tags in Construct Event fo this widget to fill ComboBox: At last, invoke Async Extract Text from Viewport to perform text extraction: Extract Text From Texture2D Run game in level ImageConvtext Content/Demo/Maps/Map03_Texture2D: This level will open widget ImageConvtext Content/Demo/Widgets/UW_ExtractText_Texture2D on BeginPlay(): Then add node Get Platform Language Tags in Construct Event fo this widget to fill ComboBox: At last, invoke Async Extract Text from Texture to perform text extraction:",
     "description": "Examples to demonstrate how to use.",
@@ -24,8 +32,16 @@ var relearn_searchindex = [
     "uri": "/imageconvtext/02.api_docs/index.html"
   },
   {
+    "breadcrumb": "Fude Workshop \u003e \rCaptain's Log",
+    "content": "At Sea Captain’s Log, 0545 hours\n“A little sea spray can’t break our spirit—nor our appetite!”\n– The Chef, after a minor sauce-spill incident\nThe waves crash and the crew awakens to the salty sea breeze. Our beloved ship, The Purple Pulpo, plows forward, determined to complete our “Operation Squid Spaghetti.”\nStatus Weather: Slightly stormy with a touch of dramatic sea mist Crew Morale: Excitement level: High Hunger level: Astronomical Willingness to sing shanties: ∞ Culinary Update The kitchen rattles with every wave, saucepans clanging like a symphony of disorganized percussion. Marinara overboard? Twice. But fear not, the crew valiantly rescued the floating ladle, dubbing it Sir Stir-a-Lot.\nStay tuned for the next thrilling entry: How fresh noodles fare in gale-force winds… and whether the sauce can hold up against the unstoppable appetite of seafaring sailors!",
+    "description": "At Sea",
+    "tags": [],
+    "title": "Day 2",
+    "uri": "/log/second-day/index.html"
+  },
+  {
     "breadcrumb": "Fude Workshop",
-    "content": "Extract Text from Image. OCR Plugin for Unreal Engine.\nOverview ImageConvText is an plugin for Unreal Engine to extract text from image (terminology named OCR, Optical Character Recognition) at runtime.\nPlayable Demo Download\nPreviwe Video\nQuick StartExamples to demonstrate how to use.\nAPI DocumentsExplain APIs of ImageConvText.",
+    "content": "Extract Text from Image. OCR Plugin for Unreal Engine.\nOverview ImageConvText is an plugin for Unreal Engine to extract text from image (terminology named OCR, Optical Character Recognition) at runtime.\nPlayable Demo Download\nPreviwe Video\nQuick StartExamples to demonstrate how to use.\nAPI DocumentsExplain APIs of ImageConvText.\nInstall LanguagesHow to install language package on Windows 10.",
     "description": "ImageConvText",
     "tags": [],
     "title": "ImageConvText",
@@ -54,6 +70,22 @@ var relearn_searchindex = [
     "tags": [],
     "title": "Cargo",
     "uri": "/ship/cargo/index.html"
+  },
+  {
+    "breadcrumb": "Fude Workshop \u003e \rCaptain's Log",
+    "content": "Island Arrival Captain’s Log, 1140 hours\n“Ahoy, pasta-lovers! Our mission is finally a sauce-cess!”\n– The Enthused Quartermaster\nThe sun blazes overhead, revealing an island coastline shaped like a questionable noodle bowl — the perfect destination for our midnight pasta cargo.\nStatus Purple sails flutter in the island breeze The octopus figurehead is oddly shining—some claim the wooden tentacles are still dancing to an unseen rhythm Slight tang of marinara lingers across the entire deck Incident in the Crow’s Nest Upon our arrival in the harbor, the lookout nearly toppled from his perch in a fit of excitement. A mysterious figure on the dock signaled with a lantern three times—followed by a deafening call of a heron in flight.\nThe lookout swears the bird cawed in perfect Morse code, as if warning us of impending calamity. Moments later, a sudden gust toppled the spyglass stand, sending it clattering down to the quarterdeck, just as the heron sped off with a triumphant whistle.\nMission Debriefing\rCrates of sauce offloaded with care (and the occasional accidental slosh) Crowds of locals, excited for fresh spaghetti Squid ink banner hoisted high to announce “Operation Squid Spaghetti Complete”",
+    "description": "Island Arrival",
+    "tags": [],
+    "title": "Day 3",
+    "uri": "/log/third-day/index.html"
+  },
+  {
+    "breadcrumb": "Fude Workshop \u003e \rImageConvText",
+    "content": "Install Language Package ImageConvText use the system language package to extract text, so must install target language on Windows 10 or Windows 11.\nCaution\rImageConvText only support Windows 10 and Windows 11. Mac \u0026 Linux not supported. Windows -\u003e Settings -\u003e Time \u0026 language -\u003e Language \u0026 region: Click Add a language: Search target language: Click Install: After installation finished, then you can use function Get Platform Language Tags to list all installed languages.",
+    "description": "How to install language package on Windows 10.",
+    "tags": [],
+    "title": "Install Languages",
+    "uri": "/imageconvtext/03.install_language/index.html"
   },
   {
     "breadcrumb": "Fude Workshop \u003e \rThe Ship \u003e \rMidst Ship",
